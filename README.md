@@ -41,7 +41,6 @@
   👨 Pronouns: Ele/Dele
  </li>
 </ul>
- 
-<br><br>
 
-![Snake animation](https://github.com/guilhermevssantos/guilhermevssantos/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
